@@ -1,0 +1,48 @@
+.card{
+    margin:1.5rem;
+    background-color: #1d1d1d;
+    color: aliceblue;
+}
+.view-btn{
+    background-color: #d3be46;
+ 
+}
+.rating-site{
+    color: #696133;
+}
+@media (max-width: 560px) {
+    .modal-body{
+        font-size: 0.8rem;
+        
+        width: 20rem;
+    }.modal-content{
+        width: 20rem !important;
+        margin-left: 1rem;
+    }
+    
+    .modal-header{
+        width: 20rem;
+    }
+    .title{
+        font-size: 1.2rem;
+    }
+    
+    .movieimg{
+        width: 50%;
+        height: 50%;
+    }
+}
+    
+.modal-content {
+    background-color: #3a3a3a;
+    color: #fceaa5;
+    width: 35rem;
+  }
+
+.line{
+    margin-top: 1rem;
+    border-bottom: 1px solid #d3be46;
+}
+.modal-body{
+    text-align: center;
+}

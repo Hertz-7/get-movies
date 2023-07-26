@@ -1,0 +1,20 @@
+.container-movies{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+   
+}
+.search-form{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    margin-top: 1rem;
+    margin-right: 1rem;
+}
+.loading{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    color: rgb(121, 121, 121);
+}
